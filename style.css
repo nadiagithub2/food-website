@@ -17,7 +17,7 @@ section{
     padding-left: 5%;
 }
 .half-width{
-    width: 80%;
+    width: 50%;
 }
 .link-button{
     text-decoration: none;
@@ -29,4 +29,5 @@ section{
 }
 .about-me{
     background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
 }
